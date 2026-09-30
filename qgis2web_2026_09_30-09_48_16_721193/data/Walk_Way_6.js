@@ -1,0 +1,1 @@
+var json_Walk_Way_6 = {"type":"FeatureCollection","name":"Walk_Way_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":null,"Color":null,"Length":null},"geometry":{"type":"LineString","coordinates":[[39.233679396063536,21.554706336972483],[39.220034816595437,21.565631864026706]]}}]}
